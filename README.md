@@ -204,6 +204,6 @@ def silver_table():
    - Adjust cluster configuration
    - Review partitioning strategy
 ## Screenshots
-![Pipeline Architecture](https://github.com/salmansajidsattar/databricks-scd2-incremental-pipeline/blob/main/Screenshort/DLT-1.png)
-![Pipeline Architecture](https://github.com/salmansajidsattar/databricks-scd2-incremental-pipeline/blob/main/Screenshort/DLT-2.png)
-![Pipeline Architecture](https://github.com/salmansajidsattar/databricks-scd2-incremental-pipeline/blob/main/Screenshort/DLT-3.png)
+![screenshots](https://github.com/salmansajidsattar/databricks-scd2-incremental-pipeline/blob/main/Screenshort/DLT-1.png)
+![screenshots](https://github.com/salmansajidsattar/databricks-scd2-incremental-pipeline/blob/main/Screenshort/DLT-2.png)
+![screenshots](https://github.com/salmansajidsattar/databricks-scd2-incremental-pipeline/blob/main/Screenshort/DLT-3.png)
